@@ -1,2 +1,2 @@
 # Python For Begginers
-This Is My Python Begging Learning 
+This Is My Python Beginning Learning 
